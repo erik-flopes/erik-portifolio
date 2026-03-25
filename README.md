@@ -1,6 +1,5 @@
-🚀 Dev Portfolio — Fullstack Engineer
 
-Landing page profissional com design estilo iOS, backend Python/Flask e todas as interfaces funcionais.
+
 
 ## Stack
 
